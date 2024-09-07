@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ArvindNandigam
 - 👀 I’m interested in doing projects with others
-- 🌱 I’m currently learning python,C,C++,Web development
+- 🌱 I’m currently learning python,C,C++
+- I just began web development
 - 💞️ I’m looking to collaborate on any project that i can contribute to and that interesting
 - 📫 How to reach me Linkedin
 - ⚡ Fun fact: Well there is none 
