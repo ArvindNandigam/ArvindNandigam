@@ -22,9 +22,6 @@ I am an AI & Machine Learning student focused on building reliable, well-enginee
 - CV: OpenCV
 - Dev & Deployment: Git, Docker, Flask/FastAPI, basic AWS/GCP
 
-## Selected Projects
-If you would like these listed here, I can add short descriptions and links to repositories for projects such as Kaggle entries, model demos, or course work.
-
 ## Collaboration
 I am open to collaborating on research, applied ML projects, and engineering-focused implementations that emphasize reproducibility and production readiness. I welcome issues or pull requests to suggest improvements or propose work.
 
