@@ -1,6 +1,8 @@
-# Hey, I'm Arvind 
+# Hey, I'm Arvind 👋
 
-### AI Engineer • Backend Builder • Systems Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=650&lines=AI+Engineer;Backend+Builder;Systems+Enthusiast;Building+things+that+think." />
+</p>
 
 > I build AI systems that do more than generate text — they reason, retrieve, integrate, and actually do things.
 
@@ -9,29 +11,35 @@ I'm a Computer Science (AI & ML) student at **VIT Chennai** interested in
 
 I like taking ambiguous problems, designing the system behind them, and shipping something that actually works.
 
+<br>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="700">
+</p>
+
 ---
 
-##  What I Build
+## What I Build
 
- **Agentic AI**
+**Agentic AI**
 - AI agents & multi-step workflows
 - Tool calling & MCP
 - LangChain / LangGraph
 - LLM applications & evaluation
 
- **AI / ML**
+**AI / ML**
 - RAG & semantic search
 - NLP & Transformers
 - PyTorch / Hugging Face
 - Model evaluation & optimization
 
- **Backend & Systems**
+**Backend & Systems**
 - Python / FastAPI
 - REST APIs & OAuth
 - Async workers & orchestration
 - Microservices & distributed systems
 
- **Cloud & Infrastructure**
+**Cloud & Infrastructure**
 - AWS / GCP
 - Docker
 - Data pipelines
@@ -42,6 +50,7 @@ I like taking ambiguous problems, designing the system behind them, and shipping
 ## Things I've Built
 
 ### RepoHeal
+
 **AI-powered GitHub repository health & migration intelligence**
 
 A GitHub App that analyzes Python repositories, understands dependencies,
@@ -81,9 +90,7 @@ protected-path detection, and confirmation workflows.
 ## Tech Stack
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,fastapi,aws,gcp,docker,mongodb,mysql,git,github,react,nodejs" />
-
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,fastapi,aws,gcp,docker,mongodb,mysql,git,github,react,nodejs" />
 </p>
 
 **AI / ML**
@@ -116,7 +123,7 @@ model size by ~50%.
 
 ---
 
-##  Currently
+## Currently
 
 - Building practical **AI agents**
 - Exploring **LLM systems & evaluation**
@@ -125,13 +132,35 @@ model size by ~50%.
 
 ---
 
-##  Connect
+<p align="center">
+  <img src="./assets/divider.svg" width="700">
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ArvindNandigam-181717?style=for-the-badge&logo=github)](https://github.com/ArvindNandigam)
+## GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arvind%20Nandigam-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arvind-nandigam-329635286)
+<p align="center">
+  <img src="./assets/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</p>
 
- **nandigamarvind@gmail.com**
+---
+
+## Connect
+
+<p align="center">
+
+<a href="https://github.com/ArvindNandigam">
+  <img src="https://img.shields.io/badge/GitHub-ArvindNandigam-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://linkedin.com/in/arvind-nandigam-329635286">
+  <img src="https://img.shields.io/badge/LinkedIn-Arvind%20Nandigam-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</p>
+
+<p align="center">
+  <sub>nandigamarvind@gmail.com</sub>
+</p>
 
 ---
 
