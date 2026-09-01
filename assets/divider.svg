@@ -1,0 +1,13 @@
+<svg width="700" height="8" viewBox="0 0 700 8" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="4" x2="700" y2="4"
+        stroke="#888"
+        stroke-width="1"
+        stroke-dasharray="8 8">
+    <animate
+      attributeName="stroke-dashoffset"
+      from="0"
+      to="-32"
+      dur="1.5s"
+      repeatCount="indefinite"/>
+  </line>
+</svg>
