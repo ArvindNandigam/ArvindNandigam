@@ -116,17 +116,6 @@ model size by ~50%.
 
 ---
 
-## GitHub
-
-## GitHub
-
-<p align="center">
-
-<a href="https://github.com/ArvindNandigam">
-  <img src="https://img.shields.io/badge/GitHub-ArvindNandigam-111111?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</p>
 ##  Currently
 
 - Building practical **AI agents**
