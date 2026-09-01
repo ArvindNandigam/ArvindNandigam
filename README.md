@@ -118,11 +118,15 @@ model size by ~50%.
 
 ## GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArvindNandigam&show_icons=true&hide_border=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvindNandigam&layout=compact&hide_border=true" />
-</p>
+## GitHub
 
+<p align="center">
+
+<a href="https://github.com/ArvindNandigam">
+  <img src="https://img.shields.io/badge/GitHub-ArvindNandigam-111111?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</p>
 ##  Currently
 
 - Building practical **AI agents**
