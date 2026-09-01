@@ -6,18 +6,14 @@
 
 > I build AI systems that do more than generate text — they reason, retrieve, integrate, and actually do things.
 
-I'm a Computer Science (AI & ML) student at **VIT Chennai** interested in
+I'm a Computer Science (AI & ML) student at **VIT Chennai** interested in  
 **Agentic AI, LLM applications, backend engineering, distributed systems, and cloud infrastructure.**
 
 I like taking ambiguous problems, designing the system behind them, and shipping something that actually works.
 
-<br>
-
 <p align="center">
-  <img src="./assets/divider.svg" width="700">
+  ────────── ⟡ ──────────
 </p>
-
----
 
 ## What I Build
 
@@ -53,7 +49,7 @@ I like taking ambiguous problems, designing the system behind them, and shipping
 
 **AI-powered GitHub repository health & migration intelligence**
 
-A GitHub App that analyzes Python repositories, understands dependencies,
+A GitHub App that analyzes Python repositories, understands dependencies,  
 detects deprecated APIs, and generates human-in-the-loop modernization recommendations.
 
 **48 repositories analyzed · 95.8% successful analysis · 88 migration opportunities**
@@ -64,7 +60,7 @@ detects deprecated APIs, and generates human-in-the-loop modernization recommend
 
 ### Jenkins Error Explainer
 
-A RAG-powered debugging assistant that retrieves relevant documentation
+A RAG-powered debugging assistant that retrieves relevant documentation  
 and historical CI/CD errors to generate citation-grounded root-cause analysis.
 
 **<10ms retrieval latency · 100+ evaluation queries**
@@ -75,10 +71,10 @@ and historical CI/CD errors to generate citation-grounded root-cause analysis.
 
 ### HCMD
 
-A constrained natural-language-to-terminal command system designed around
+A constrained natural-language-to-terminal command system designed around  
 **safe execution rather than blindly executing whatever an LLM says.**
 
-Uses intent classification, span extraction, allowlists,
+Uses intent classification, span extraction, allowlists,  
 protected-path detection, and confirmation workflows.
 
 **92% intent accuracy · 150+ evaluation prompts · 25+ command intents**
@@ -95,14 +91,14 @@ protected-path detection, and confirmation workflows.
 
 **AI / ML**
 
-`PyTorch` `TensorFlow` `Transformers` `Hugging Face`
-`Scikit-learn` `BERT` `RAG` `LangChain` `LangGraph`
+`PyTorch` `TensorFlow` `Transformers` `Hugging Face`  
+`Scikit-learn` `BERT` `RAG` `LangChain` `LangGraph`  
 `Agentic AI` `MCP` `A2A` `OpenAI API`
 
 **Data / Infrastructure**
 
-`MongoDB` `Neo4j` `FAISS` `Chroma`
-`AWS` `GCP` `Docker` `REST APIs`
+`MongoDB` `Neo4j` `FAISS` `Chroma`  
+`AWS` `GCP` `Docker` `REST APIs`  
 `Background Workers` `OAuth` `Webhooks`
 
 ---
@@ -111,14 +107,14 @@ protected-path detection, and confirmation workflows.
 
 **Ford Motor Company — Data Engineering Intern**
 
-Built GCP-based observability and data-quality systems for large-scale
-Dataflow and Dataproc workloads, including asynchronous monitoring,
+Built GCP-based observability and data-quality systems for large-scale  
+Dataflow and Dataproc workloads, including asynchronous monitoring,  
 data-contract validation, and Gemini-powered rule recommendations.
 
 **Flex — ML Intern**
 
-Built enterprise NLP classification pipelines using Transformers and
-fine-tuned BERT models, including knowledge distillation that reduced
+Built enterprise NLP classification pipelines using Transformers and  
+fine-tuned BERT models, including knowledge distillation that reduced  
 model size by ~50%.
 
 ---
@@ -130,10 +126,8 @@ model size by ~50%.
 - Learning more about **distributed systems**
 - Looking for opportunities to build **real production AI**
 
----
-
 <p align="center">
-  <img src="./assets/divider.svg" width="700">
+  ────────── ⟡ ──────────
 </p>
 
 ## GitHub
