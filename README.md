@@ -129,7 +129,7 @@ model size by ~50%.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ArvindNandigam-181717?style=for-the-badge&logo=github)](https://github.com/ArvindNandigam)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arvind%20Nandigam-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arvind%20Nandigam-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arvind-nandigam-329635286)
 
  **nandigamarvind@gmail.com**
 
