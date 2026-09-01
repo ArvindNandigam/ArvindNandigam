@@ -119,11 +119,9 @@ model size by ~50%.
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArvindNandigam&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvindNandigam&layout=compact&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArvindNandigam&show_icons=true&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvindNandigam&layout=compact&hide_border=true" />
 </p>
-
----
 
 ##  Currently
 
