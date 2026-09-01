@@ -1,34 +1,151 @@
-# Arvind Nandigam — AI/ML Student
+# Hey, I'm Arvind 
 
-I am an AI & Machine Learning student focused on building reliable, well-engineered models and production-ready ML systems. I contribute to open-source projects, build end-to-end experiments, and collaborate on data-driven solutions.
+### AI Engineer • Backend Builder • Systems Enthusiast
 
-## Current Focus
-- Deep learning research and practical applications (computer vision, natural language processing)
-- Applied projects: dataset preprocessing, model training, evaluation, and deployment
-- MLOps fundamentals: containerization, model serving, monitoring, and reproducibility
+> I build AI systems that do more than generate text — they reason, retrieve, integrate, and actually do things.
 
-## Areas of Interest
-- Deep Learning: CNNs, RNNs, Transformers
-- Natural Language Processing & Large Language Models
-- Computer Vision & Image Processing
-- Reinforcement Learning
-- Time-series forecasting and anomaly detection
-- Model interpretability, fairness, and responsible AI
+I'm a Computer Science (AI & ML) student at **VIT Chennai** interested in
+**Agentic AI, LLM applications, backend engineering, distributed systems, and cloud infrastructure.**
 
-## Skills & Tools
-- Languages: Python, C, C++
-- ML & Data: PyTorch, TensorFlow, scikit-learn, pandas, NumPy
-- NLP: Hugging Face Transformers, spaCy
-- CV: OpenCV
-- Dev & Deployment: Git, Docker, Flask/FastAPI, basic AWS/GCP
+I like taking ambiguous problems, designing the system behind them, and shipping something that actually works.
 
-## Collaboration
-I am open to collaborating on research, applied ML projects, and engineering-focused implementations that emphasize reproducibility and production readiness. I welcome issues or pull requests to suggest improvements or propose work.
+---
 
-## Contact
-LinkedIn: https://linkedin.com/in/arvind-nandigam-329635286
+##  What I Build
 
-<!---
-ArvindNandigam/ArvindNandigam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ **Agentic AI**
+- AI agents & multi-step workflows
+- Tool calling & MCP
+- LangChain / LangGraph
+- LLM applications & evaluation
+
+ **AI / ML**
+- RAG & semantic search
+- NLP & Transformers
+- PyTorch / Hugging Face
+- Model evaluation & optimization
+
+ **Backend & Systems**
+- Python / FastAPI
+- REST APIs & OAuth
+- Async workers & orchestration
+- Microservices & distributed systems
+
+ **Cloud & Infrastructure**
+- AWS / GCP
+- Docker
+- Data pipelines
+- Observability & automation
+
+---
+
+## Things I've Built
+
+### RepoHeal
+**AI-powered GitHub repository health & migration intelligence**
+
+A GitHub App that analyzes Python repositories, understands dependencies,
+detects deprecated APIs, and generates human-in-the-loop modernization recommendations.
+
+**48 repositories analyzed · 95.8% successful analysis · 88 migration opportunities**
+
+`Python` `FastAPI` `Neo4j` `GitHub Apps` `Agentic AI` `LLMs`
+
+---
+
+### Jenkins Error Explainer
+
+A RAG-powered debugging assistant that retrieves relevant documentation
+and historical CI/CD errors to generate citation-grounded root-cause analysis.
+
+**<10ms retrieval latency · 100+ evaluation queries**
+
+`Python` `FastAPI` `LangChain` `FAISS` `Sentence Transformers` `RAG`
+
+---
+
+### HCMD
+
+A constrained natural-language-to-terminal command system designed around
+**safe execution rather than blindly executing whatever an LLM says.**
+
+Uses intent classification, span extraction, allowlists,
+protected-path detection, and confirmation workflows.
+
+**92% intent accuracy · 150+ evaluation prompts · 25+ command intents**
+
+`Python` `Transformers` `NLP` `Security` `LLMs`
+
+---
+
+## Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,fastapi,aws,gcp,docker,mongodb,mysql,git,github,react,nodejs" />
+
+</p>
+
+**AI / ML**
+
+`PyTorch` `TensorFlow` `Transformers` `Hugging Face`
+`Scikit-learn` `BERT` `RAG` `LangChain` `LangGraph`
+`Agentic AI` `MCP` `A2A` `OpenAI API`
+
+**Data / Infrastructure**
+
+`MongoDB` `Neo4j` `FAISS` `Chroma`
+`AWS` `GCP` `Docker` `REST APIs`
+`Background Workers` `OAuth` `Webhooks`
+
+---
+
+## Experience
+
+**Ford Motor Company — Data Engineering Intern**
+
+Built GCP-based observability and data-quality systems for large-scale
+Dataflow and Dataproc workloads, including asynchronous monitoring,
+data-contract validation, and Gemini-powered rule recommendations.
+
+**Flex — ML Intern**
+
+Built enterprise NLP classification pipelines using Transformers and
+fine-tuned BERT models, including knowledge distillation that reduced
+model size by ~50%.
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArvindNandigam&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArvindNandigam&layout=compact&hide_border=true" height="170"/>
+</p>
+
+---
+
+##  Currently
+
+- Building practical **AI agents**
+- Exploring **LLM systems & evaluation**
+- Learning more about **distributed systems**
+- Looking for opportunities to build **real production AI**
+
+---
+
+##  Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-ArvindNandigam-181717?style=for-the-badge&logo=github)](https://github.com/ArvindNandigam)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arvind%20Nandigam-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+ **nandigamarvind@gmail.com**
+
+---
+
+<p align="center">
+
+### Build → Break → Measure → Improve → Ship.
+
+</p>
